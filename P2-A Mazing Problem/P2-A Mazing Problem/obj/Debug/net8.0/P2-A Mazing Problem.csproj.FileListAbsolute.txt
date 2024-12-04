@@ -1,0 +1,14 @@
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\bin\Debug\net8.0\P2-A Mazing Problem.exe
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\bin\Debug\net8.0\P2-A Mazing Problem.deps.json
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\bin\Debug\net8.0\P2-A Mazing Problem.runtimeconfig.json
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\bin\Debug\net8.0\P2-A Mazing Problem.dll
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\bin\Debug\net8.0\P2-A Mazing Problem.pdb
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.AssemblyInfoInputs.cache
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.AssemblyInfo.cs
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.csproj.CoreCompileInputs.cache
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.dll
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\refint\P2-A Mazing Problem.dll
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.pdb
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\P2-A Mazing Problem.genruntimeconfig.cache
+C:\Users\ASSUREX\source\repos\P2-A Mazing Problem\P2-A Mazing Problem\obj\Debug\net8.0\ref\P2-A Mazing Problem.dll
